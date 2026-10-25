@@ -1,3 +1,0 @@
-/workspace/app/build/CMakeFiles/telesp.dir
-/workspace/app/build/CMakeFiles/edit_cache.dir
-/workspace/app/build/CMakeFiles/rebuild_cache.dir
