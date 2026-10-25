@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/telesp.dir/src/main.cpp.o CMakeFiles/telesp.dir/src/app.cpp.o -o telesp  -lSDL2 -lSDL2_ttf -lSDL2 -lSDL2_ttf
